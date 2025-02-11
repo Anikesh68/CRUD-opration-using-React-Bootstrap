@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John",
+      "username": "Bret",
+      "email": "bret@bret.com",
+      "phone": "2345678345",
+      "website": "hindunburg.com"
+    },
+    {
+      "id": "2",
+      "name": "JohnA",
+      "username": "BretA",
+      "email": "bret@bretA.com",
+      "phone": "23456783451",
+      "website": "hindunburgA.com"
+    },
+    {
+      "id": "3",
+      "name": "Johnb",
+      "username": "BretB",
+      "email": "bret@bretB.com",
+      "phone": "23456783453",
+      "website": "hindunburgB.com"
+    },
+    {
+      "id": "f2c1",
+      "name": "AnikeshA",
+      "email": "chaurasiyaanikesh@gmail.com",
+      "phone": "1234567823"
+    },
+    {
+      "id": "054f",
+      "name": "AnikeshA",
+      "email": "ani@gmail.com",
+      "phone": "12345678"
+    }
+  ]
+}
